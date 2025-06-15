@@ -15,7 +15,7 @@ Projeyi clone ettikten sonra VSCode progamını açınız.
 
 Linux için:
 
-```
+```linux
 cd kodluyoruz ilk repo
 code .
 ```
