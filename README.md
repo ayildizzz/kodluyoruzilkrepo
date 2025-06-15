@@ -10,6 +10,7 @@ git clone https://github.com/ayildizzz/kodluyoruzilkrepo.git
 
 ## Usage
 Projeyi clone ettikten sonra VSCode progamını açınız.
+
 Linux için:
 
 ```
