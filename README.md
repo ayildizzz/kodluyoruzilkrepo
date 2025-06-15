@@ -5,7 +5,9 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluştu
 ## Installation
 Öncelikle projeyi clone edin. (Buraya sizin reponuzdan aldığınız link gelecek)
 
->git clone https://github.com/ayildizzz/kodluyoruzilkrepo.git
+```
+git clone https://github.com/ayildizzz/kodluyoruzilkrepo.git
+```
 
 ## Usage
 
@@ -14,8 +16,10 @@ Bu repo [Kodluyoruz] (https://www.kodluyoruz.org/) Front-End Eğitiminde oluştu
 Projeyi clone ettikten sonra VSCode progamını açınız.
 Linux için:
 
+```
 >cd kodluyoruz ilk repo
-`code .`
+code .
+```
 
 ## Contributing
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
